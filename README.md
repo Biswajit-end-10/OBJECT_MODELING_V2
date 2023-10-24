@@ -16,7 +16,7 @@ Built a JukeBox application based on a problem statement from scratch.
                                                     Clean Architecture
 
 # Introduction to Low Level Design
-# Scope of Work
+# Scope of Work:
 Get introduced to the components of Clean Architecture.
 Understand entities and identify them with the help of real-world examples.
 Gather requirements and translate them into use cases.
