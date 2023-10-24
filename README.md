@@ -78,7 +78,7 @@ Implement all the required layers step by step in a Test-driven development styl
 Java, Object Oriented Design, Design Patterns, Test Driven Development, Unit Testing
 
 # Image(s)
-                 ![JukeBox Conceptual Overview](https://github.com/Biswajit-end-10/OBJECT_MODELING_V2/assets/145575757/43428971-4d63-4469-bec5-5304b1b0146f)
+ ![JukeBox Conceptual Overview](https://github.com/Biswajit-end-10/OBJECT_MODELING_V2/assets/145575757/43428971-4d63-4469-bec5-5304b1b0146f)
 Use Case Diagram for Coding Game
 
 
